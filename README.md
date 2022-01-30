@@ -12,7 +12,7 @@
 ✍️ Supertest
 
 
-## Goal  🔨
+## Goal ⭐
 - Interpret the class diagram and know the relationships: inheritance, association, aggregation and aggregation by composition;
 - Map Classes to tables in relational DBMS;
 - Use the TypeScript language and the TypeORM library;
